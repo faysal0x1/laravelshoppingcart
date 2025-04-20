@@ -1,5 +1,5 @@
 {
-    "name": "mindscms/laravelshoppingcart",
+    "name": "faysal0x1/laravelshoppingcart",
     "description": "Laravel Shopping cart",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
@@ -15,6 +15,9 @@
         {
             "name": "Sami Mansour",
             "email": "mindscms@gmail.com"
+        },{
+                      "name": "Faysal Rahman",
+            "email": "faysal.swe@gmail.com"
         }
     ],
     "require": {
