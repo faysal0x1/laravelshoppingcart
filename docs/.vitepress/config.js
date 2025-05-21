@@ -2,6 +2,7 @@ export default {
   title: 'Laravel Shopping Cart',
   description: 'A simple shopping cart implementation for Laravel',
   base: '/laravelshoppingcart/',
+  outDir: '../dist',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
