@@ -1,11 +1,11 @@
 {
-  "name": "laravelshoppingcart-docs",
+  "name": "laravel-shopping-cart-docs",
   "version": "1.0.0",
   "description": "Documentation for Laravel Shopping Cart package",
   "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
   "keywords": [
     "laravel",
@@ -16,6 +16,6 @@
   "license": "MIT",
   "devDependencies": {
     "vitepress": "^1.0.0-rc.40",
-    "@vueuse/core": "^10.7.0"
+    "vue": "^3.3.4"
   }
 }
