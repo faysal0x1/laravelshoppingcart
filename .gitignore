@@ -3,3 +3,10 @@ composer.phar
 composer.lock
 .DS_Store
 .idea/
+.phpunit.result.cache
+build
+coverage
+phpunit.xml
+phpstan.neon
+testbench.yaml
+node_modules
